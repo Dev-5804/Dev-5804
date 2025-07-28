@@ -130,6 +130,7 @@ while (alive) {
     }
 }
 ```
+---
 
 **🌟 Random Developer Facts:**
 - 🎯 Can debug code in my sleep (literally happened once)
